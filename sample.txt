@@ -1,2 +1,5 @@
 my sample text
 hi
+fruits
+vegeies
+my sample text
